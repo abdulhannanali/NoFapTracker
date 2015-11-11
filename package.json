@@ -1,0 +1,24 @@
+{
+  "name": "no-fap-tracker",
+  "version": "1.0.0",
+  "description": "A command line application to track your progress of NoFap. NoFap is a gem for porn addiction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulhannanali/NoFapTracker/"
+  },
+  "keywords": [
+    "nofap",
+    "antipmo",
+    "pmo",
+    "addiction"
+  ],
+  "author": "Hannan Ali (abdulhannanali@outlook.com)",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
